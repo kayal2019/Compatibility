@@ -1,6 +1,9 @@
 ---
 name: 与 Android API 的兼容性问题
 about: 特定（或一批）机型 & ROM 与 Android 标准 API 之间存在的兼容性问题
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
